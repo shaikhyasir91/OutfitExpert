@@ -6,7 +6,7 @@
 
 [Dataset](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#dataset)
 
-[Tools and Technologies](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#toolsandtechnologies)
+[Tools and Technologies](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#tools-and-technologies)
 
 [Credits](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#credits)
 

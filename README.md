@@ -1,7 +1,7 @@
 # OutfitExpert: Fashion Item Recognition and Outfit Planning with Deep Learning
 ## Table of Contents
-Introduction
-Features
+[Introduction](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#introduction)
+[Features](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#feature)
 Dataset
 Tools and Technologies
 Usage

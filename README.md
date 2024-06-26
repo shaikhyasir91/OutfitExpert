@@ -2,8 +2,6 @@
 ## Table of Contents
 [Introduction](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#introduction)
 
-[Features](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#feature)
-
 [Dataset](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#dataset)
 
 [Tools and Technologies](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#tools-and-technologies)

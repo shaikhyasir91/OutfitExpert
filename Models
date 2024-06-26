@@ -1,0 +1,5 @@
+https://drive.google.com/drive/folders/1ylABDXSQ3smkdfR3zjkWuQAeP8D2IJX2?usp=sharing
+
+You can visit this link and download the four models for our project.
+sub_model is the model that determine the subcategory of cloth.
+top_model, bottom_model, shoes_model are the models determine the color,article,usage, season and gender.

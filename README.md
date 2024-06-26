@@ -31,9 +31,9 @@ Transfer Learning: Utilized pre-trained models to enhance the performance and ac
 Convolutional Neural Networks (CNN): Employed for the image classification tasks, forming the core of the recognition system.
 
 ## Usage
-Run this [notebook](https://github.com/shaikhyasir91/OutfitExpert/blob/main/1)%20training.ipynb) to train the model (if not using a pre-trained model):
+Run this [notebook](https://github.com/shaikhyasir91/OutfitExpert/blob/main/1)) to train the model (if not using a pre-trained model):
 
-run this python [script](https://github.com/shaikhyasir91/OutfitExpert/blob/main/1)%20ui_module.py) to run GUI.
+run this python [script](https://github.com/shaikhyasir91/OutfitExpert/blob/main/1)) to run GUI.
 Use the GUI to upload images and generate outfit recommendations.
 
 ## Credits

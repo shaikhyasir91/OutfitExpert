@@ -1,12 +1,4 @@
 # OutfitExpert: Fashion Item Recognition and Outfit Planning with Deep Learning
-## Table of Contents
-[Introduction](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#introduction)
-
-[Dataset](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#dataset)
-
-[Tools and Technologies](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#tools-and-technologies)
-
-[Credits](https://github.com/shaikhyasir91/OutfitExpert/blob/main/README.md#credits)
 
 ## Introduction
 OutfitExpert is a deep learning-based project aimed at recognizing fashion items and planning outfits. This system uses convolutional neural networks (CNNs) and transfer learning to accurately classify various clothing items and generate stylish outfit recommendations. The user interface, built with PyQt5, provides an intuitive platform for users to interact with the application, upload images, and receive fashion advice.
